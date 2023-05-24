@@ -52,13 +52,13 @@ const Experience = () => {
             id: 7,
             src: mongodb,
             title: "Mongo DB",
-            style: "shadow-pink-400",
+            style: "shadow-green-400",
         },
         {
             id: 8,
             src: restapi,
             title: "REST-API",
-            style: "shadow-pink-400",
+            style: "shadow-gray-400",
         },
         {
             id: 9,
@@ -71,7 +71,7 @@ const Experience = () => {
     return (
         <div
             name="experience"
-            className="bg-gradient-to-b from-gray-800 to-black w-full h-screen max-md:pt-72"
+            className="bg-gradient-to-b from-gray-800 to-black w-full h-screen max-md:pt-96 pt-64"
         >
             <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
                 <div>
