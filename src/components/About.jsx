@@ -14,23 +14,17 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-                    deserunt illum mollitia officiis qui exercitationem perferendis neque
-                    quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-                    iste, totam fugiat recusandae rerum laborum perferendis molestiae
-                    aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-                    ab mollitia voluptatibus, a nostrum eveniet laborum!
+                    I am a specialist in the field of information technology,
+                    I know how to organize teamwork, I negotiate well, in which knowledge of foreign languages such as English and Chinese helps me.
+                    My key skills are the ability to learn quickly and adapt to change.
+                    I approach my work responsibly, I expect the same from others.
                 </p>
 
                 <br />
 
                 <p className="text-xl">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-                    pariatur, vel similique sint, nobis aspernatur ut praesentium
-                    explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-                    quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-                    Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-                    magni quo! Eum cupiditate debitis labore.
+                    
+                    The philosophy of my life is most accurately described by the quote "Behind every success there is a lot of patience, hard work and responsibility."
                 </p>
             </div>
         </div>
